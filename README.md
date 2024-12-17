@@ -1,4 +1,4 @@
-# Book 2
+# Ascii Art Book
 
 [Link to problem in Code Step By Step](https://www.codestepbystep.com/r/problem/view/java/loops/Book2)
 
